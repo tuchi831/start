@@ -7,7 +7,7 @@ int main()
 {
     int a,b;
     a = 4;
-    c = 5;
-    f = 5;
+    b = 5;
+    
     return 0;
 }
